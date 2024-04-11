@@ -8,9 +8,8 @@ This portfolio showcases algorithmic solutions tailored for grocery delivery app
    * Retailers leveraged technology and data analytics to combat supply chain bottlenecks and expand their network by collaborating with local kirana shops to meet customer demand.
    * Home delivery options and digital payment methods, such as Unified Payment Interface (UPI) platforms like PhonePe, Google Pay, PayTM, and Bharat Pe, accelerated during the pandemic and are expected to continue growing.
    * Integration of online and offline retailing has enabled hyperlocal and speedy delivery, reducing the need for extensive warehousing.
-   * The pandemic has catalyzed digitization in kirana stores, transitioning them into a Phygital model that combines physical and digital elements to enhance efficiency and build trust.
-   * The convenience and accessibility offered by online grocery shopping have reshaped consumer behavior, particularly in urban environments and during times of unprecedented global challenges.
-   * The inherent complexity of logistical operations and customer preferences within this domain presents a rich landscape for algorithmic problem-solving.
-   * Delving into this domain offers the opportunity to optimize operational efficiencies, enhance user experiences, and contribute to the evolution of modern commerce in a tangible and impactful manner.
+   * The convenience and accessibility offered by online grocery shopping have reshaped consumer behavior, particularly in urban environments.
+   * The inherent complexity of logistical operations and customer preferences within this domain presents a rich landscape for algorithmic problem-solving offering the opportunity to optimize operational efficiencies, enhance user experiences, and contribute to the evolution of modern commerce in an impactful manner.
 
 2. Market Area Analysis
+   *
