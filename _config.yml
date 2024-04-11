@@ -1,12 +1,1 @@
-theme: jekyll-theme-cayman
-
-author: Jessina James
-
-plugins:
-  - jekyll-feed
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-
-remote_theme: "pages-themes/cayman@v0.4.0"
+theme: jekyll-theme-leap-day
