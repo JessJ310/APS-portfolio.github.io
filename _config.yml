@@ -1,5 +1,13 @@
-remote_theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman
+
+title: Algorithmic Solutions for Grocery Delivery Applications
+author: Jessina James
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-gem "github-pages", group: :jekyll_plugins
-title: Algorithmc Solutions for Grocery Delivery Applications
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+remote_theme: "pages-themes/cayman@v0.4.0"
