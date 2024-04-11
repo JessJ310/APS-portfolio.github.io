@@ -2,7 +2,7 @@
 
 This portfolio showcases algorithmic solutions tailored for grocery delivery applications. In this collection, I present solutions that aim to optimize the efficiency and meet the consumer needs in this realm.
 
-# Introduction
+# Introduction {#introduction}
 ### 1. Exploring the Domain
    * The concept of digital stores emerged during the pandemic, prompting large retailers to minimize operational costs and explore cheaper store locations.
    * Retailers leveraged technology and data analytics to combat supply chain bottlenecks and expand their network by collaborating with local kirana shops to meet customer demand.
@@ -29,4 +29,3 @@ This portfolio showcases algorithmic solutions tailored for grocery delivery app
 * Big Basket
 * Reliance Fresh
 
-    ### Business Use Cases
