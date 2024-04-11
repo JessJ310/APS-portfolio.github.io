@@ -29,3 +29,13 @@ This portfolio showcases algorithmic solutions tailored for grocery delivery app
 * Big Basket
 * Reliance Fresh
 
+Functionalities Provided:
+1. Real-time Order Tracking
+2. Scheduled Deliveries
+3. Real-time Inventory Updates
+4. Personalised Recommendations
+5. Location based Deals and Promotions
+6. Cart-to-checkout Experience
+7. Search and filter for specific products
+8. Faster delivery times
+9. Delivery of fresh and high quality products
