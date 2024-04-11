@@ -12,8 +12,15 @@ This portfolio showcases algorithmic solutions tailored for grocery delivery app
    * The complexity of logistical operations and customer preferences within this domain presents a rich landscape for algorithmic problem-solving offering the opportunity to optimize operational efficiencies, enhance user experiences, and contribute to the evolution of modern commerce in an impactful manner.
 
 ### 2. Market Area Analysis
-    * 
+    * Food and grocery is the largest segment in the Indian retail sector, accounting for 65% of the share in retail. 
+    * The Indian Online Grocery Market is projected to reach nearly US$ 46.30 billion by 2029, with a remarkable compound annual growth rate (CAGR) of 37.1% during the forecast period.
+    * Current trends in the domain include autonomous shopping solutions such as smart carts, AI-powered inventory management, personalized shopping experiences through machine learning, adoption of blockchain for traceability, personalized recommendations, etc.
 
 ### 3. Major Market Players
     * AmazonFresh
     * Walmart
+    * Instacart
+    * Big Basket
+    * Reliance Fresh
+
+    ### Business Use Cases
