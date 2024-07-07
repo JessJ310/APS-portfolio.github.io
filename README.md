@@ -53,3 +53,5 @@ The concept of digital stores gained prominence during the pandemic, as large re
 11. [Selection of nearest inventory based on user location](contributing.md)
 12. [Accelerate delivery speed by optimizing route](delivery-speed.md)
 
+# References
+
