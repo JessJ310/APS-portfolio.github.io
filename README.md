@@ -40,16 +40,16 @@ The concept of digital stores gained prominence during the pandemic, as large re
 * Reliance Fresh
 
 # Applying DSA to achieve key functionalities
-1. [Search for products with autocomplete suggestions](docs/autocomplete.md)
-2. [Personalized product suggestions](docs/product-suggestion.md)
-3. [Filtering of large sets of products](docs/filtering.md)
-4. [Product ranking optimization](docs/product-ranking.md)
-5. [Track user preferences across different product categories](docs/user-preference.md)
-6. [Analyzing user engagement periods](docs/best-practices.md)
-7. [Real-time inventory updates](docs/inventory.md)
-8. [Optimize product rating storage for faster data retrieval](docs/data-retrieval.md)
-9. [Promotion and pricing strategy to attract customers](docs/promotion.md)
-10. [Real-time order tracking](docs/order-tracking.md)
-11. [Selection of nearest inventory based on user location](docs/contributing.md)
-12. [Accelerate delivery speed by optimizing route](docs/delivery-speed.md)
+1. [Search for products with autocomplete suggestions](autocomplete.md)
+2. [Personalized product suggestions](product-suggestion.md)
+3. [Filtering of large sets of products](filtering.md)
+4. [Product ranking optimization](product-ranking.md)
+5. [Track user preferences across different product categories](user-preference.md)
+6. [Analyzing user engagement periods](best-practices.md)
+7. [Real-time inventory updates](inventory.md)
+8. [Optimize product rating storage for faster data retrieval](data-retrieval.md)
+9. [Promotion and pricing strategy to attract customers](promotion.md)
+10. [Real-time order tracking](order-tracking.md)
+11. [Selection of nearest inventory based on user location](contributing.md)
+12. [Accelerate delivery speed by optimizing route](delivery-speed.md)
 
