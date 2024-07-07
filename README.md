@@ -1,22 +1,22 @@
 # Algorithmic Solutions for Grocery Delivery Applications
 
-<b>Course Name:</b> Algorithmic Problem Solving <br>
-<b>Course Code:</b> 23ECSE309 <br>
-<b>Course Guide:</b> Prakash Hegade <br>
-<b>Name:</b> Jessina James <br>
-<b>University:</b> KLE Technological University, Hubballi-31 <br>
+<b>**Course Name:**</b> Algorithmic Problem Solving <br>
+<b>**Course Code:**</b> 23ECSE309 <br>
+<b>**Course Guide:**</b> Prakash Hegade <br>
+<b>**Name:**</b> Jessina James <br>
+<b>**University:**</b> KLE Technological University, Hubballi-31 <br>
 
 <br>
 This portfolio demonstrates my proficiency in data structures and algorithms (DSA) through their application in the development of a comprehensive grocery delivery application. It highlights how foundational DSA concepts can be leveraged to solve real-world problems efficiently and effectively. By exploring various aspects of a grocery delivery system, I aim to showcase my ability to design and implement robust solutions that enhance the overall functionality and user experience.
 
 # Objectives
-<b>1. Demonstrate Proficiency in DSA Concepts: </b>
+<b>**1. Demonstrate Proficiency in DSA Concepts:** </b>
  Showcase a deep understanding of essential data structures and algorithms through practical implementations within the grocery delivery application.
-<b>2. Illustrate Problem-Solving Skills:</b>
+<b>**2. Illustrate Problem-Solving Skills:**</b>
  Highlight the ability to identify, analyze, and solve complex problems commonly encountered in grocery delivery systems using efficient and effective DSA solutions.
-<b>3. Showcase Real-World Application:</b>
+<b>**3. Showcase Real-World Application:**</b>
  Provide concrete examples of how theoretical DSA knowledge can be applied to build robust and scalable components of a grocery delivery application, enhancing overall functionality and user experience.
-<b>4. Showcase Skills to Potential Employers:</b>
+<b>**4. Showcase Skills to Potential Employers:**</b>
  Provide a comprehensive and practical demonstration of my technical skills, problem-solving abilities, and software development expertise to potential employers, illustrating my readiness to tackle real-world challenges in a professional setting.
 
 # Introduction {#introduction}
