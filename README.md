@@ -43,21 +43,13 @@ The concept of digital stores gained prominence during the pandemic, as large re
 1. [Search for products with autocomplete suggestions](docs/autocomplete.md)
 2. [Personalized product suggestions](docs/product-suggestion.md)
 3. [Filtering of large sets of products](docs/filtering.md)
-4. [Track user preferences across different product categories](docs/user-preference.md)
-5. [Analyzing user engagement periods](docs/best-practices.md)
-6. [Real-time inventory updates](docs/inventory.md)
-7. [Optimize product rating storage for faster data retrieval](docs/data-retrieval.md)
-8. [Promotion and pricing strategy to attract customers](docs/promotion.md)
-9. [Real-time order tracking](docs/order-tracking.md)
-10. [Selection of nearest inventory based on user location](docs/contributing.md)
-11. [Accelerate delivery speed by optimizing route](docs/delivery-speed.md)
+4. [Product ranking optimization](docs/product-ranking.md)
+5. [Track user preferences across different product categories](docs/user-preference.md)
+6. [Analyzing user engagement periods](docs/best-practices.md)
+7. [Real-time inventory updates](docs/inventory.md)
+8. [Optimize product rating storage for faster data retrieval](docs/data-retrieval.md)
+9. [Promotion and pricing strategy to attract customers](docs/promotion.md)
+10. [Real-time order tracking](docs/order-tracking.md)
+11. [Selection of nearest inventory based on user location](docs/contributing.md)
+12. [Accelerate delivery speed by optimizing route](docs/delivery-speed.md)
 
-1. Real-time Order Tracking
-2. Scheduled Deliveries
-3. Real-time Inventory Updates
-4. Personalised Recommendations
-5. Location based Deals and Promotions
-6. Cart-to-checkout Experience
-7. Search and filter for specific products
-8. Faster delivery times
-9. Delivery of fresh and high quality products
