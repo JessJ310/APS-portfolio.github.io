@@ -1,16 +1,12 @@
 # Algorithmic Solutions for Grocery Delivery Applications
 
-Course Name: Algorithmic Problem Solving
+Course Name: Algorithmic Problem Solving <br>
+Course Code: 23ECSE309 <br>
+Course Guide: Prakash Hegade <br>
+Name: Jessina James <br>
+University: KLE Technological University, Hubballi-31 <br>
 
-Course Code: 23ECSE309
-
-Course Guide: Prakash Hegade
-
-Name: Jessina James
-
-University: KLE Technological University, Hubballi-31
-
-
+<br>
 This portfolio demonstrates my proficiency in data structures and algorithms (DSA) through their application in the development of a comprehensive grocery delivery application. It highlights how foundational DSA concepts can be leveraged to solve real-world problems efficiently and effectively. By exploring various aspects of a grocery delivery system, I aim to showcase my ability to design and implement robust solutions that enhance the overall functionality and user experience.
 
 # Objectives
