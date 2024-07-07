@@ -39,15 +39,18 @@ The concept of digital stores gained prominence during the pandemic, as large re
 * Big Basket
 * Reliance Fresh
 
-#Applying DSA to achieve key functionalities
+# Applying DSA to achieve key functionalities
 1. [Search for products with autocomplete suggestions](docs/autocomplete.md)
-2. [Real-time inventory management](docs/inventory.md)
-3. [Personalized product suggestions](docs/usage.md)
-4. [Overcoming slow disk access during data retrieval](docs/data-structures.md)
-5. [Algorithms](docs/algorithms.md)
-6. [Best Practices](docs/best-practices.md)
-7. [Contributing](docs/contributing.md)
-
+2. [Personalized product suggestions](docs/product-suggestion.md)
+3. [Filtering of large sets of products](docs/filtering.md)
+4. [Track user preferences across different product categories](docs/user-preference.md)
+5. [Analyzing user engagement periods](docs/best-practices.md)
+6. [Real-time inventory updates](docs/inventory.md)
+7. [Optimize product rating storage for faster data retrieval](docs/data-retrieval.md)
+8. [Promotion and pricing strategy to attract customers](docs/promotion.md)
+9. [Real-time order tracking](docs/order-tracking.md)
+10. [Selection of nearest inventory based on user location](docs/contributing.md)
+11. [Accelerate delivery speed by optimizing route](docs/delivery-speed.md)
 
 1. Real-time Order Tracking
 2. Scheduled Deliveries
