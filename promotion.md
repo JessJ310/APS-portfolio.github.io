@@ -1,5 +1,5 @@
 # Promotion and pricing strategy to attract customers
-### Use case: ###
+### Market benefit: ###
 Design attractive bundle offers that combine multiple products at a discounted price to maximize customer satisfaction, optimize inventory, and boost revenue. Offers tailored to customer preferences increase satisfaction and encourage repeat purchases. Efficient use of inventory reduces wastage and ensures products are sold before expiration. Effective bundling strategies attract larger orders and increase average order value, boosting overall revenue.
 ### Implementation: <br>
 ### 0/1 Knapsack problem <br>
@@ -11,8 +11,7 @@ Design attractive bundle offers that combine multiple products at a discounted p
       - Each product has a profit (representing its attractiveness or contribution to the bundle's appeal).
       - The goal is to maximize the total profit (customer appeal) of the bundle while not exceeding constraints (e.g., total cost or weight of the bundle).
   - Determine the discount or promotional price for the bundle to attract customers while maintaining profitability.
-  - Adjust pricing dynamically based on real-time data and market conditions to optimize sales and revenue.
-<br>
+  - Adjust pricing dynamically based on real-time data and market conditions to optimize sales and revenue.<br>
 ### Limitations <br>
   - Implementing dynamic pricing strategies based on real-time market data becomes more complex with the 0/1 knapsack approach. Adjusting prices dynamically for bundles that have fixed compositions (all-or-nothing inclusion) can be less responsive to market fluctuations compared to more flexible approaches.
   - As the number of products and potential bundles increases, the computational complexity of the 0/1 knapsack algorithm grows significantly. This can result in longer processing times and higher resource requirements, potentially impacting real-time responsiveness and scalability of the application.
@@ -20,9 +19,7 @@ Design attractive bundle offers that combine multiple products at a discounted p
 
 ### Analyzing complexity <br>
   - Time Complexity: O(N*W) where n is the number of items available for selection to form bundles and w represents maximum budget constraint
-  - Auxillary Space: O(N*W) + O(N).
-
-  <br>
+  - Auxillary Space: O(N*W) + O(N). <br>
   [Click to analyze code](./analyze.py)
   
 
