@@ -9,11 +9,13 @@ When generating recommendations, the Bloom filter is queried to check if a produ
 The Bloom filter requires an array of size 𝑚, where each bit represents the status (set or unset) of a hash function output for each item stored.<br>
 
   ### Why this works? <br>
-  - 
+  - Bloom filters can significantly enhance the speed of retrieving and processing user preferences and interactions stored in a key-value storage system. Bloom filters provide a fast decision mechanism to quickly check if a user has interacted with a particular product category without directly accessing the disk. This decision process is much faster than disk reads.
+  - Bloom filters have a substantial space advantage over other data structures for representing sets, such as self-balancing binary search trees, tries, hash tables, or simple arrays or linked lists of the entries. Most of these require storing at least the data items themselves, which can require anywhere from a small number of bits, for small integers, to an arbitrary number of bits, such as for strings. However, Bloom filters do not store the data items at all, and a separate solution must be provided for the actual storage.
   <br>
   ### Limitations <br>
-  - Tries can consume significant memory, especially when storing large datasets of product names.
-  - An efficiently constructed hash table(i.e. a good hash function) has O(1) as lookup time which is way faster than O(l) in the case of a trie, where l is the length of the string.
+  - Bloom filters can occasionally produce false positives, indicating that a user is interested in a category when they are not.
+  - Bloom filters only provide a probabilistic indication of membership (whether a user has interacted with a category), not the actual data itself.
+  - The greater the number of hash functions, the slower the Bloom filter. However, if you have a small number, you may experience excessive false positives. <br>
   ### Analyzing complexity <br>
   - Time complexity: During entry and search, it is 0(k), where k is the maximum number of hash functions implemented.
   - Space complexity: 0(m), wherein m is the expected number of items (product categories)
