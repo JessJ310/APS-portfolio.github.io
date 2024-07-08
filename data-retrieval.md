@@ -7,7 +7,8 @@ In a grocery delivery application, managing and retrieving customer data efficie
 <b> 1. B/B+ trees</b>
 
 <b> Why this works? </b>
-  - In B+ trees, rows or documents of a table are clubbed in B+ tree nodes, and each node holds a maximum of some n rows. The leaf nodes are linked so that linear traversal of the actual rows is possible. The B+ tree structure ensures that the table is always logically and physically arranged by its primary key.
+  - In B+ trees, rows or documents of a table are clubbed in B+ tree nodes, and each node holds a maximum of some n rows. The leaf nodes are linked so that linear traversal of the actual rows is possible.
+  - The B+ tree structure ensures that the table is always logically and physically arranged by its primary key.
   - B-trees effortlessly handle range queries, which involve retrieving data within a specified range of keys. Since the keys are sorted within each node, the storage engine can quickly identify the starting and ending points of the desired range.<br>
   
 <b> Limitations</b>
@@ -28,8 +29,8 @@ In a grocery delivery application, managing and retrieving customer data efficie
   -  Additionally, a hash table containing the number of products rated by each user and the sum of the ratings for each user (and similarly the number and sum of ratings for each product) is stored.<br>
   
 <b> Limitations</b>
-  - Extending it to support other types of data or more complex relationships between data entities can be challenging.
-  - As the dataset grows, the in-memory storage requirements increase proportionally. Scaling up to accommodate larger datasets can be challenging and costly
+  - Extending it to support other types of data can be challenging.
+  - As the dataset grows, the in-memory storage requirements increase, scaling up to accommodate larger datasets can be challenging and costly
   - MemReader operates in-memory, meaning that data is volatile and can be lost if the application crashes or is restarted.<br>
   
 <b> Analyzing complexity</b>
