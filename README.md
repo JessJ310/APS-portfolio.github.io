@@ -48,16 +48,15 @@ The concept of digital stores gained prominence during the pandemic, as large re
 # Applying DSA to achieve key functionalities
 1. [Search for products with autocomplete suggestions](autocomplete.md)
 2. [Personalized product suggestions](product-suggestion.md)
-3. [Applying filters to large sets of products](filtering.md)
-4. [Product ranking optimization](product-ranking.md)
-5. [Track user preferences across different product categories](user-preference.md)
-6. [Analyzing user engagement periods](best-practices.md)
-7. [Real-time inventory updates](inventory.md)
-8. [Promotion and pricing strategy to attract customers](promotion.md)
-9. [Real-time order tracking](order-tracking.md)
-10. [Selection of nearest inventory based on user location](contributing.md)
-11. [Accelerate delivery speed by optimizing route](delivery-speed.md)
-12. [Management of customer and product data](data-retrieval.md)
+3. [Product ranking optimization](product-ranking.md)
+4. [Track user preferences across different product categories](user-preference.md)
+5. [Analyzing user engagement periods](best-practices.md)
+6. [Real-time inventory updates](inventory.md)
+7. [Promotion and pricing strategy to attract customers](promotion.md)
+8. [Minimize transportation costs from central warehouse to other warehouses](transportation.md)
+9. [Selection of nearest inventory based on user location](contributing.md)
+10. [Accelerate delivery speed by optimizing route](delivery-speed.md)
+11. [Management of customer and product data](data-retrieval.md)
 
 # References
 
