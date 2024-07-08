@@ -2,12 +2,11 @@
 <b> Market Benefit:  </b>
 Implementing product search with autocomplete offers real-time suggestions based on user input, thus improving navigation efficiency in our grocery delivery application and enhancing user experience.<br>
 ### Implementation:
-<b> 1. Trie: </b><br>
-<b>Why this works?  </b>
- - Trie allows for efficient insertion and retrieval operations, making it ideal for storing and searching product names or keywords used in autocomplete and search functionalities of your grocery delivery application.
+<b> 1. Trie: </b><br><br>
+<pre><b>Why this works?  </b>
+ - Trie allows for efficient insertion and retrieval operations, making it ideal for storing and searching product names.
  - It enables alphabetical filtering, which is useful for categorizing and searching products by their names or categories.
- - It supports efficient prefix search and longest prefix matching, facilitating quick autocomplete suggestions and accurate product search results.
- - It supports ordered iteration, ensuring that product names are accessed in a predictable sequence, which can be beneficial for displaying search results or product listings in a user-friendly manner.<br><br>
+ - It supports efficient prefix search and longest prefix matching, facilitating quick autocomplete suggestions and accurate product search results.</pre><br><br>
 <b>Limitations  </b>
  - Tries can consume significant memory, especially when storing large datasets of product names.
  - An efficiently constructed hash table(i.e. a good hash function) has O(1) as lookup time which is way faster than O(l) in the case of a trie, where l is the length of the string. <br><br>
