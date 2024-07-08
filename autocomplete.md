@@ -18,16 +18,18 @@ Implementing product search with autocomplete offers real-time suggestions based
  [Click to analyze code](./Codes for portfolio/trie.cpp)
   
 <b> 2. Pruning Radix trie </b><br>
-<b>Why this works?</b>
+<p>
+ <b>Why this works?</b>
  - It is up to 1000 times faster than an ordinary Radix Trie, making it ideal for providing instant autocomplete suggestions to users as they type in product names.
  - Its space-optimized structure ensures efficient use of memory. This is important for handling large dictionaries of product names and categories in a grocery delivery application.
  - By storing the maximum rank of all children in each node, the Pruning Radix Trie can quickly return the top-k most relevant results. <br><br>
 <b>Analyzing complexity </b>
  - It reduces the tie complexity for serching of a radix trie by a factor of 1000. <br>
 [Click to analyze code](https://github.com/otto-de/PyPruningRadixTrie)
+</p>
 
 <p align="center">
-  <img src="images/trie-pruning.png" alt="Image 1" width="55%" style="display: inline-block; margin: 10px;">
+  <img src="images/trie-pruning.png" alt="Image 1" width="47%" style="display: inline-block; margin: 10px;">
   <img src="images/trie-pruning1.png" alt="Image 2" width="45%" style="display: inline-block; margin: 10px;">
 </p>
 
