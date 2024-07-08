@@ -1,8 +1,8 @@
 # Product ranking
 <b>Market Benefit:</b> 
-- Effective product ranking ensures that users see the most relevant products first, based on their preferences, past purchases, and browsing history. Tailored rankings based on user behavior improve engagement and satisfaction by presenting items that align with individual tastes and needs.
-- Products ranked higher are more likely to attract user attention and drive purchases, especially if they align with trending or high-demand items.
-- Promoting higher-ranking products or items with better profit margins can contribute to overall revenue growth and profitability.
+- Effective product ranking ensures that users see the most relevant products first, based on their preferences, past purchases, and browsing history.
+- Products ranked higher are more likely to attract user attention and purchases, especially if they align with trending or high-demand items.
+- Promoting higher-ranking products with better profit margins can contribute to overall revenue growth and profitability.
   
 ### Implementation: <br>
 
