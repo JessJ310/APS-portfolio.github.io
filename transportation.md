@@ -7,13 +7,13 @@ Represent warehouses as nodes and connections (roads or direct routes) as edges 
 ### Analyzing complexity <br>
   - Time complexity: O(V^2)
   - Space Complexity:	O(V^2) <br>
-  [Click to analyze code](./analyze.py)
+  [Click to analyze code](./Codes for portfolio/prims.cpp)
 
   ### 2. Kruskal's algorithm <br>
   ### Analyzing complexity <br>
   - Time complexity: 	O(E log E)	
   - Space complexity: O(E + V) <br>
-  [Click to analyze code](./analyze.py)
+  [Click to analyze code](./Codes for portfolio/kruskal.cpp)
 
 
 [Back](README.md#applying-dsa-to-achieve-key-functionalities)
