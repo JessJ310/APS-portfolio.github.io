@@ -37,7 +37,7 @@ In a grocery delivery application, managing and retrieving customer data efficie
   - Search (lookup) complexity: O(1) on average.<br>
 
   <p align="center">
-  <img src="images/memreader.png" alt="Image 1" width="70%" style="display: inline-block; margin: 10px;">
+  <img src="images/memreader.png" alt="Image 1" width="50%" style="display: inline-block; margin: 10px;">
 </p>
 
   [Click to analyze code](./analyze.py)
