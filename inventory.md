@@ -1,5 +1,5 @@
 # Real-time inventory updates
-### Use case: ###
+### Market Benefit: ###
 - Ensuring accurate and real-time inventory management is crucial for providing a seamless customer experience. When new inventory arrives or is restocked, the application updates the stock levels. The system verifies and increases the available stock count in real-time, ensuring that products are available for immediate fulfillment when orders are placed, avoiding out-of-stock scenarios and customer dissatisfaction.
 - As orders are processed and items are picked for delivery, the stock levels are decreased.This real-time update prevents overselling and informs customers promptly if certain items are no longer available.
 - Customers browsing the application need to know if specific products are in stock. Each product listing displays real-time availability based on the current stock levels stored in the database. Queries are optimized for speed, leveraging efficient database indexing and caching mechanisms to provide instant responses.
