@@ -2,7 +2,7 @@
 ### Use case: ###
 Design attractive bundle offers that combine multiple products at a discounted price to maximize customer satisfaction, optimize inventory, and boost revenue. Offers tailored to customer preferences increase satisfaction and encourage repeat purchases. Efficient use of inventory reduces wastage and ensures products are sold before expiration. Effective bundling strategies attract larger orders and increase average order value, boosting overall revenue.
 ### Implementation: <br>
-### Knapsack problem <br>
+### 0/1 Knapsack problem <br>
   ### How this works? <br>
   - Identify groups of products that can be bundled together based on customer purchasing patterns, seasonal demand, or complementary items. For example, pasta, sauce, and garlic bread might be frequently purchased together for a family meal.
   - Utilize historical data and customer preferences to understand which products are frequently bought together. This analysis helps in determining which product combinations are likely to be most attractive to customers.
