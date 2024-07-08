@@ -1,5 +1,5 @@
 # Analyzing user engagement periods with products
-### Use case: ###
+### Market Benefit: ###
 Customers can rate products they purchase. You can analyze user engagement by tracking periods of positive and negative feedback for each product.
 ### Implementation: <br>
 ### Kadane's algorithm <br>
