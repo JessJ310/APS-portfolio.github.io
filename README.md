@@ -59,9 +59,7 @@ The concept of digital stores gained prominence during the pandemic, as large re
 11. [Management of customer and product data](data-retrieval.md)
 
 # References
-- ## References
-- [PruningRadixTrie Repository](https://github.com/wolfgarbe/PruningRadixTrie)
-  Garbe, W. PruningRadixTrie. from https://github.com/wolfgarbe/PruningRadixTrie
+- PruningRadixTrie Repository. Garbe, W. PruningRadixTrie. from https://github.com/wolfgarbe/PruningRadixTrie
 - KD-Trees and Their Limitations in High Dimensions. (2023, October 21). CodeWithC.com. Retrieved July 2, 2024, from https://www.codewithc.com/kd-trees-and-their-limitations-in-high-dimensions/?amp=1
 - Data Structures for Recommender Systems. Carleton College Computer Science Department. Retrieved July 4, 2024, from https://www.cs.carleton.edu/cs_comps/0607/recommend/recommender/datastructures.html
 - Kumar, A. (2022, August 24). Ranking Algorithms & Types: Concepts & Examples. Vitalflux. Retrieved July 5, 2024, from https://vitalflux.com/ranking-algorithms-types-concepts-examples/
