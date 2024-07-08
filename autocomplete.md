@@ -4,7 +4,7 @@ Implementing product search with autocomplete offers real-time suggestions based
 <br>
 ### Implementation: <br>
 ### 1. Trie: <br>
-  ### Why this works? <br>
+### Why this works? <br>
   - Trie allows for efficient insertion and retrieval operations, making it ideal for storing and searching product names or keywords used in autocomplete and search functionalities of your grocery delivery application.
   - It enables alphabetical filtering, which is useful for categorizing and searching products by their names or categories.
   - It supports efficient prefix search and longest prefix matching, facilitating quick autocomplete suggestions and accurate product search results.
@@ -19,14 +19,13 @@ Implementing product search with autocomplete offers real-time suggestions based
   [Click to analyze code](./Codes for portfolio/trie.cpp)
   
 ### 2. Pruning Radix trie <br> 
-  ### Why this works? <br>
-  - It is up to 1000 times faster than an ordinary Radix Trie, making it ideal for providing instant autocomplete suggestions to users as they type in product names.
-  - Its space-optimized structure ensures efficient use of memory. This is important for handling large dictionaries of product names and categories in a grocery delivery application.
-  - By storing the maximum rank of all children in each node, the Pruning Radix Trie can quickly return the top-k most relevant results. 
+### Why this works? <br>
+- It is up to 1000 times faster than an ordinary Radix Trie, making it ideal for providing instant autocomplete suggestions to users as they type in product names.
+- Its space-optimized structure ensures efficient use of memory. This is important for handling large dictionaries of product names and categories in a grocery delivery application.
+- By storing the maximum rank of all children in each node, the Pruning Radix Trie can quickly return the top-k most relevant results. 
   
-  ### Analyzing complexity <br>
-  - It reduces the tie complexity for serching of a radix trie by a factor of 1000.
-  <br>
+### Analyzing complexity <br>
+- It reduces the tie complexity for serching of a radix trie by a factor of 1000. <br>
   [Click to analyze code](https://github.com/otto-de/PyPruningRadixTrie)
 
 
