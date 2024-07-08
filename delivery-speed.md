@@ -15,10 +15,10 @@ Minimize the total delivery time from a warehouse to multiple delivery points. A
   - Space Complexity:	O(V) <br>
   [Click to analyze code](./Codes for portfolio/dijkstra.cpp)
 
-  ### A* search algorithm <br>
-  ### Why is it better? 
+### A* search algorithm <br>
+### Why is it better? 
   - It incorporates a heuristic function (h(n)) to estimate the cost from the current node to the goal. This helps in prioritizing nodes that are likely to lead to the goal faster. The heuristic function in A* helps in reducing the number of nodes explored, making the process more efficient, especially for large graphs.<br>
-  ### Analyzing complexity <br>
+### Analyzing complexity <br>
   - Time complexity: O(E)
   - Space complexity: 0(E) <br>
   [Click to analyze code](./Codes for portfolio/astar.cpp)
