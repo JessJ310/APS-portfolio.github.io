@@ -7,8 +7,8 @@
 ### Implementation: <br>
 
 <b> 1. Log-linear Ranking Algorithm </b><br>
-<b> 2. Bayesian Ranking Algorithm </b><br><br>
 
+<b> 2. Bayesian Ranking Algorithm </b><br><br>
 <b> How this works? </b><br>
 - The Bayesian ranking algorithm adjusts product rankings based on average ratings and the number of ratings received, providing a statistically balanced measure that prioritizes items with reliable and significant feedback, enhancing relevance and fairness in product recommendations.<br><br>
 [Click to analyze code](https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/how-to/bayesian-average/)
