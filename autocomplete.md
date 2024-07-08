@@ -1,5 +1,5 @@
 # Search for products with autocomplete suggestions 
-### Use case: ###
+### Market Benefit: ###
 Implementing product search with autocomplete offers real-time suggestions based on user input, thus improving navigation efficiency in our grocery delivery application and enhancing user experience.
 <br>
 ### Implementation: <br>
