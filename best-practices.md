@@ -5,9 +5,9 @@ Customers can rate products they purchase. You can analyze user engagement by tr
 <b> Kadane's algorithm </b><br>
 
 <b> How this works? </b><br>
-- Data Representation: Each element in the input array represents the aggregated feedback score for a specific time period (e.g., a day or another time interval). This score can be derived from various sources such as user ratings, reviews, or other forms of feedback.
-- Feedback Score: The feedback score can be represented on a numerical scale.
-- Collect and aggregate feedback scores for each product over time intervals (e.g., daily, weekly). Store these aggregated scores in an array where each index represents a specific time period, and the value at each index represents the aggregated feedback score for that period.
+- Each element in input array represents the aggregated feedback score for a specific time period, derived from various sources such as user ratings, reviews, etc.
+- The feedback score can be represented on a numerical scale.
+- Aggregate feedback scores for each product over time intervals and store these in an array where each index represents a specific time period, and the value at each index represents the aggregated feedback score for that period.
 - Analyze the results obtained from Kadane's Algorithm to understand patterns in user engagement with the product over time.
 - Kadane's Algorithm finds the maximum sum subarray, which means it identifies the longest streak of consecutive positive or negative feedback periods based on the given criteria <br><br>
 
