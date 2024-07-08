@@ -22,6 +22,7 @@ Minimize the total delivery time from a warehouse to multiple delivery points. A
 
 <b> Why is it better? </b>
   - It incorporates a heuristic function (h(n)) to estimate the cost from the current node to the goal. This helps in prioritizing nodes that are likely to lead to the goal faster. The heuristic function in A* helps in reducing the number of nodes explored, making the process more efficient, especially for large graphs.<br>
+  
 <b> Analyzing complexity</b> <br>
   - Time complexity: O(E)
   - Space complexity: 0(E) <br>
