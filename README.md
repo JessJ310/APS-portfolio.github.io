@@ -59,4 +59,8 @@ The concept of digital stores gained prominence during the pandemic, as large re
 11. [Management of customer and product data](data-retrieval.md)
 
 # References
+- ## References
+- [PruningRadixTrie Repository](https://github.com/wolfgarbe/PruningRadixTrie)
+  Garbe, W. PruningRadixTrie. from https://github.com/wolfgarbe/PruningRadixTrie
+- 
 
