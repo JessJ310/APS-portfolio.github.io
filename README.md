@@ -47,11 +47,11 @@ The concept of digital stores gained prominence during the pandemic, as large re
 5. [Track user preferences across different product categories](user-preference.md)
 6. [Analyzing user engagement periods](best-practices.md)
 7. [Real-time inventory updates](inventory.md)
-8. [Optimize product rating storage for faster data retrieval](data-retrieval.md)
-9. [Promotion and pricing strategy to attract customers](promotion.md)
-10. [Real-time order tracking](order-tracking.md)
-11. [Selection of nearest inventory based on user location](contributing.md)
-12. [Accelerate delivery speed by optimizing route](delivery-speed.md)
+8. [Promotion and pricing strategy to attract customers](promotion.md)
+9. [Real-time order tracking](order-tracking.md)
+10. [Selection of nearest inventory based on user location](contributing.md)
+11. [Accelerate delivery speed by optimizing route](delivery-speed.md)
+12. [Management of customer and product data](data-retrieval.md)
 
 # References
 
