@@ -10,7 +10,8 @@
 <b> Analyzing complexity: </b>
 - Time complexity is O(m+n) for m users and n items <br><br>
 [Click to analyze code](https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/how-to/bayesian-average/)<br><br>
-<b> 2. Best first search </b><br><br>
+
+<b>2. Best first search </b><br><br>
 <b> How this works? </b>
 - Each node in the graph represents a product in your inventory.
 - The edges between nodes represent the similarity or relevance between products. The weight of an edge can be determined by the number of shared features  between two products (e.g., category, price range, user purchase history, ratings).<br><br>
