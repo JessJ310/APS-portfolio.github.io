@@ -30,17 +30,4 @@ In a grocery delivery application, managing and retrieving customer data efficie
   [Click to analyze code](./analyze.py)
   
 
-
-  
-
-
-
-
-
-
-
-
-
-
-
-[Back to homepage](./README.md)
+[Back](README.md#applying-dsa-to-achieve-key-functionalities)
