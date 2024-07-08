@@ -1,13 +1,13 @@
+* Search for products with autocomplete suggestions *
 ** Use case: ** Implementing product search with autocomplete offers real-time suggestions based on user input, thus improving navigation efficiency in our grocery delivery application and enhancing user experience.
 <br>
-** Implementation: ** <br>
-** 1. Trie: **<br>
+** Implementation: ** <br><br>
+*** 1. Trie:***<br>
   *** Why this works? ***<br>
   - Trie allows for efficient insertion and retrieval operations, making it ideal for storing and searching product names or keywords used in autocomplete and search functionalities of your grocery delivery application.
   - Trie enables alphabetical filtering, which is useful for categorizing and searching products by their names or categories.
   - Trie supports efficient prefix search and longest prefix matching, facilitating quick autocomplete suggestions and accurate product search results.
   - It supports ordered iteration, ensuring that product names are accessed in a predictable sequence, which can be beneficial for displaying search results or product listings in a user-friendly manner.
-
 <br>
   *** Limitations: ***<br>
   - Tries can consume significant memory, especially when storing large datasets of product names.
@@ -43,4 +43,4 @@
 
 
 
-[Back to homepage](../README.md)
+[Back to homepage](./README.md)
