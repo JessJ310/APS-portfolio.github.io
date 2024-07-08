@@ -13,7 +13,7 @@ Minimize the total delivery time from a warehouse to multiple delivery points. A
 ### Analyzing complexity <br>
   - Time complexity: O((V + E) log V)
   - Space Complexity:	O(V) <br>
-  [Click to analyze code](./analyze.py)
+  [Click to analyze code](./Codes for portfolio/dijkstra.cpp)
 
   ### A* search algorithm <br>
   ### Why is it better? 
@@ -21,7 +21,7 @@ Minimize the total delivery time from a warehouse to multiple delivery points. A
   ### Analyzing complexity <br>
   - Time complexity: O(E)
   - Space complexity: 0(E) <br>
-  [Click to analyze code](./analyze.py)
+  [Click to analyze code](./Codes for portfolio/astar.cpp)
 
 
 [Back](README.md#applying-dsa-to-achieve-key-functionalities)
