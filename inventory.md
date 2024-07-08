@@ -16,7 +16,7 @@
   - Time complexity: Updating or querying a single product takes O(logN)
   - Space complexity: 0(N)
   <br>
-  [Click to analyze code](./analyze.py)
+  [Click to analyze code](./Codes for portfolio/segment-lazy.cpp)
   
 
 
