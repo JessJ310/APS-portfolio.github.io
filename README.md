@@ -16,29 +16,24 @@ This portfolio demonstrates my proficiency in data structures and algorithms (DS
 - [References](#references)
 
 # Objectives
-- ### Demonstrate Proficiency in DSA Concepts: 
+- <b>Demonstrate Proficiency in DSA Concepts: </b>
   Showcase a deep understanding of essential data structures and algorithms through practical implementations within the grocery delivery application.
-- ### Illustrate Problem-Solving Skills:  
+- <b> Illustrate Problem-Solving Skills: </b>
   Highlight the ability to identify, analyze, and solve complex problems commonly encountered in grocery delivery systems using efficient and effective DSA solutions.
-- ### Showcase Real-World Application:  
+- <b> Showcase Real-World Application: </b> 
   Provide concrete examples of how theoretical DSA knowledge can be applied to build robust and scalable components of a grocery delivery application, enhancing overall functionality and user experience.
-- ### Showcase Skills to Potential Employers:  
+- <b> Showcase Skills to Potential Employers:</b>  
   Provide a comprehensive and practical demonstration of my technical skills, problem-solving abilities, and software development expertise to potential employers, illustrating my readiness to tackle real-world challenges in a professional setting.
 
 # Introduction 
 The concept of digital stores gained prominence during the pandemic, as large retailers sought to minimize operational costs and explore more affordable store locations. By leveraging technology and data analytics, they addressed supply chain bottlenecks and expanded their networks through collaboration with local kirana shops to meet customer demand. Home delivery options and digital payment methods, such as UPI platforms like PhonePe, Google Pay, PayTM, and Bharat Pe, saw significant growth and are expected to continue expanding. The integration of online and offline retailing has facilitated hyperlocal and speedy delivery, reducing the need for extensive warehousing. The convenience and accessibility of online grocery shopping have reshaped consumer behavior, especially in urban areas. This complex landscape of logistical operations and customer preferences presents a rich field for algorithmic problem-solving, offering opportunities to optimize operational efficiencies, enhance user experiences, and significantly contribute to the evolution of modern commerce.
 
-### Market Area Analysis
+<b> Market Area Analysis </b>
 - Food and grocery is the largest segment in the Indian retail sector, accounting for 65% of the share in retail.
 - The Indian Online Grocery Market is projected to reach nearly US$ 46.30 billion by 2029, with a remarkable compound annual growth rate (CAGR) of 37.1% during the forecast period.
-- Current trends in the domain include:
-  - Autonomous shopping solutions such as smart carts
-  - AI-powered inventory management
-  - Personalized shopping experiences through machine learning
-  - Personalized recommendations, etc.
+- Current trends in the domain include: Autonomous shopping solutions such as smart carts, AI-powered inventory management, personalized shopping experiences through machine learning, personalized recommendations, etc.
 
-
-### Major Market Players
+<b> Major Market Players</b>
 * AmazonFresh
 * Walmart
 * Instacart
