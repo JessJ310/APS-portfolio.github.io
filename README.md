@@ -22,7 +22,7 @@ This portfolio demonstrates my proficiency in data structures and algorithms (DS
   Highlight the ability to identify, analyze, and solve complex problems commonly encountered in grocery delivery systems using efficient and effective DSA solutions.
 - <b> Showcase Real-World Application: </b> 
   Provide concrete examples of how theoretical DSA knowledge can be applied to build robust and scalable components of a grocery delivery application, enhancing overall functionality and user experience.
-- <b> Showcase Skills to Potential Employers:</b>  
+- <b> Showcase Skills to Potential Employers: </b>  
   Provide a comprehensive and practical demonstration of my technical skills, problem-solving abilities, and software development expertise to potential employers, illustrating my readiness to tackle real-world challenges in a professional setting.
 
 # Introduction 
