@@ -8,8 +8,7 @@ Customers can rate products they purchase. You can analyze user engagement by tr
   - Feedback Score: The feedback score can be represented on a numerical scale.
   - Collect and aggregate feedback scores for each product over time intervals (e.g., daily, weekly). Store these aggregated scores in an array where each index represents a specific time period, and the value at each index represents the aggregated feedback score for that period.
   - Analyze the results obtained from Kadane's Algorithm to understand patterns in user engagement with the product over time.
-  - Kadane's Algorithm finds the maximum sum subarray, which means it identifies the longest streak of consecutive positive or negative feedback periods based on the given criteria (
-<br>
+  - Kadane's Algorithm finds the maximum sum subarray, which means it identifies the longest streak of consecutive positive or negative feedback periods based on the given criteria <br>
 ### Limitations <br>
   - It only finds one such subarray. In real-life scenarios, there might be multiple significant periods of engagement that you want to analyze separately.
   - Kadane's Algorithm assumes that the data is sequential and contiguous. In applications where feedback data might not be contiguous (e.g., missing time periods or irregularly spaced feedback), Kadane's Algorithm might not accurately capture the desired patterns.
