@@ -8,11 +8,17 @@
   - Collaborative filtering is a recommendation technique that predicts a user’s preferences based on past behavior and similarities with other users. It relies on patterns of interactions among users and items to suggest personalized recommendations.
   ### Limitations <br>
   - Cold-start problem: Arises when the system needs help to make accurate recommendations for new users or items with limited interaction history.
-  - “Grey sheep” problem: It encounters difficulty when faced with users who possess unique or unconventional preferences. In such cases, finding similar users with comparable tastes becomes challenging, resulting in suboptimal recommendations.
+  - “Grey sheep” problem: It encounters difficulty when faced with users who possess unique or unconventional preferences. In such cases, finding similar users with comparable tastes becomes challenging, resulting in suboptimal recommendations.<br>
+  ### Analyzing complexity:
+  - Time complexity is O(m+n) for m users and n items <br>
   [Click to analyze code](https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/how-to/bayesian-average/)
 ### 2. Best first search <br>
   ### How this works? <br>
-  - The Bayesian ranking algorithm adjusts product rankings based on average ratings and the number of ratings received, providing a statistically balanced measure that prioritizes items with reliable and significant feedback, enhancing relevance and fairness in product recommendations.<br>
+  - Each node in the graph represents a product in your inventory.
+  - The edges between nodes represent the similarity or relevance between products. The weight of an edge can be determined by the number of shared features  between two products (e.g., category, price range, user purchase history, ratings).<br>
+  ### Analyzing complexity:
+  - Time complexity: O(b^m) where b is the branching and m is the maximum depth of the search tree
+  - Space complexity can be polynomial. <br>
   [Click to analyze code](https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/how-to/bayesian-average/)
   
 [Back](README.md#applying-dsa-to-achieve-key-functionalities)
