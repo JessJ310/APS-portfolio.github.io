@@ -10,7 +10,7 @@ In a grocery delivery application, managing and retrieving customer data efficie
   - B-trees have a higher space overhead as each node in a B-tree typically contains multiple keys and child pointers, which can consume more memory than nodes in simpler tree structures.
   - Maintaining the balance of a B-tree is crucial for efficient data access. As the database grows and shrinks, rebalancing the tree becomes necessary to prevent it from becoming skewed. Ensuring that nodes have a roughly equal number of keys requires careful splitting and merging operations, which can introduce overhead.
   ### Analyzing complexity <br>
-  -CRUD operations are performed in O(log n)
+  - CRUD operations are performed in O(log n)
   <br>
   [Click to analyze code](./analyze.py)
 
