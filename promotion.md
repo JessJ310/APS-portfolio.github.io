@@ -20,7 +20,7 @@ Design attractive bundle offers that combine multiple products at a discounted p
 ### Analyzing complexity <br>
   - Time Complexity: O(N*W) where n is the number of items available for selection to form bundles and w represents maximum budget constraint
   - Auxillary Space: O(N*W) + O(N). <br>
-  [Click to analyze code](./analyze.py)
+  [Click to analyze code](./Codes for portfolio/knapsack.cpp)
   
 
 [Back](README.md#applying-dsa-to-achieve-key-functionalities)
