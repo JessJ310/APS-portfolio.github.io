@@ -19,6 +19,6 @@
   ### Analyzing complexity:
   - Time complexity: O(b^m) where b is the branching and m is the maximum depth of the search tree
   - Space complexity can be polynomial. <br>
-  [Click to analyze code](https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/how-to/bayesian-average/)
+  [Click to analyze code](./Codes for portfolio/bestfirst.cpp)
   
 [Back](README.md#applying-dsa-to-achieve-key-functionalities)
