@@ -1,6 +1,7 @@
 # Accelerating delivery speed by optimizing delivery route
 ### Market benefit: ###
-Minimize the total delivery time from a warehouse to multiple delivery points. Accelerating delivery speed by optimizing delivery routes enhances customer satisfaction, increases repeat purchases, and boosts overall market competitiveness.### Implementation: <br>
+Minimize the total delivery time from a warehouse to multiple delivery points. Accelerating delivery speed by optimizing delivery routes enhances customer satisfaction, increases repeat purchases, and boosts overall market competitiveness.<br>
+### Implementation: <br>
 ### Dijkstra's algorithm <br>
   - Represent locations such as warehouses, delivery points, and intersections as nodes.
   - Represent the roads connecting these locations as edges.
@@ -11,7 +12,7 @@ Minimize the total delivery time from a warehouse to multiple delivery points. A
 
 ### Analyzing complexity <br>
   - Time complexity: O((V + E) log V)
-  - Space Complexity	O(V)
+  - Space Complexity:	O(V) <br>
   [Click to analyze code](./analyze.py)
 
   ### A* search algorithm <br>
@@ -19,7 +20,7 @@ Minimize the total delivery time from a warehouse to multiple delivery points. A
   - It incorporates a heuristic function (h(n)) to estimate the cost from the current node to the goal. This helps in prioritizing nodes that are likely to lead to the goal faster. The heuristic function in A* helps in reducing the number of nodes explored, making the process more efficient, especially for large graphs.<br>
   ### Analyzing complexity <br>
   - Time complexity: O(E)
-  - Space complexity: 0(E)
+  - Space complexity: 0(E) <br>
   [Click to analyze code](./analyze.py)
 
 
