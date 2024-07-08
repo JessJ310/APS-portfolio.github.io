@@ -42,7 +42,7 @@ The concept of digital stores gained prominence during the pandemic, as large re
 # Applying DSA to achieve key functionalities
 1. [Search for products with autocomplete suggestions](autocomplete.md)
 2. [Personalized product suggestions](product-suggestion.md)
-3. [Filtering of large sets of products](filtering.md)
+3. [Applying filters to large sets of products](filtering.md)
 4. [Product ranking optimization](product-ranking.md)
 5. [Track user preferences across different product categories](user-preference.md)
 6. [Analyzing user engagement periods](best-practices.md)
