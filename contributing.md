@@ -17,7 +17,7 @@
   - Finding 1 nearest neighbour in a balanced k-d tree with randomly distributed points takes O(log n) time on average.
 
   <br>
-  [Click to analyze code](./analyze.py)
+  [Click to analyze code](./Codes for portfolio/kdtree.cpp)
   
 
 [Back](README.md#applying-dsa-to-achieve-key-functionalities)
