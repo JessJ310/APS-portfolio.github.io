@@ -2,7 +2,7 @@
 <b> Market Benefit: </b>
 Customers can rate products they purchase. You can analyze user engagement by tracking periods of positive and negative feedback for each product.
 ### Implementation: 
-<b> Kadane's algorithm </b><br><br>
+<b> Kadane's algorithm </b><br>
 
 <b> How this works? </b><br>
 - Data Representation: Each element in the input array represents the aggregated feedback score for a specific time period (e.g., a day or another time interval). This score can be derived from various sources such as user ratings, reviews, or other forms of feedback.
