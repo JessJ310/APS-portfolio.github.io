@@ -26,6 +26,11 @@ Implementing product search with autocomplete offers real-time suggestions based
 - It reduces the tie complexity for serching of a radix trie by a factor of 1000. <br>
 [Click to analyze code](https://github.com/otto-de/PyPruningRadixTrie)
 
+<p align="center">
+  <img src="images/trie-pruning.png" alt="Image 1" width="45%" style="display: inline-block; margin: 10px;">
+  <img src="images/trie-pruning1.png" alt="Image 2" width="45%" style="display: inline-block; margin: 10px;">
+</p>
+
 
 
 
