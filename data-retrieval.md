@@ -1,10 +1,10 @@
 # Management of customer and product data
-### Use case: ###
+### Market Benefit: ###
 In a grocery delivery application, managing and retrieving customer data efficiently is crucial to ensuring a smooth and responsive user experience. As the customer base grows, the system must handle a vast amount of data, including customer profiles, order histories, preferences, and search behaviors.<br>
 ### Implementation: <br><br>
 ### 1. B/B+ trees <br>
   ### Why this works? <br>
-  - In B+ trees, rows or documents of a table are clubbed in B+ tree nodes, and each node holds a maximum of some n rows. For example, if one B+ tree node is 4KB big (same as a disk block size) and the row size is 40B, then each node will hold a maximum of 100 rows. This makes disk reads efficient since reading one node from a disk means reading 100 rows at once. Non-leaf nodes in a B+ tree hold routing information, while leaf nodes hold the actual rows. The leaf nodes are linked so that linear traversal of the actual rows is possible. The B+ tree structure thus ensures that the table is always logically and physically arranged by its primary key
+  - In B+ trees, rows or documents of a table are clubbed in B+ tree nodes, and each node holds a maximum of some n rows. For example, if one B+ tree node is 4KB big (same as a disk block size) and the row size is 40B, then each node will hold a maximum of 100 rows. The leaf nodes are linked so that linear traversal of the actual rows is possible. The B+ tree structure thus ensures that the table is always logically and physically arranged by its primary key
   - B-trees effortlessly handle range queries, which involve retrieving data within a specified range of keys. Since the keys are sorted within each node, the storage engine can quickly identify the starting and ending points of the desired range.
   ### Limitations <br>
   - B-trees have a higher space overhead as each node in a B-tree typically contains multiple keys and child pointers, which can consume more memory than nodes in simpler tree structures.
