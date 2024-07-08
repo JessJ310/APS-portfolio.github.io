@@ -42,6 +42,5 @@ Implementing product search with autocomplete offers real-time suggestions based
 
 
 
+[Back](README.md#applying-dsa-to-achieve-key-functionalities)
 
-
-[Back to homepage](./README.md)
