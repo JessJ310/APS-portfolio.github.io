@@ -2,7 +2,7 @@
 <b> Market Benefit:  </b>
 Implementing product search with autocomplete offers real-time suggestions based on user input, thus improving navigation efficiency in our grocery delivery application and enhancing user experience.<br>
 ### Implementation:
-### 1. Trie:
+### 1. Trie: <br>
 <b>Why this works?  </b>
  - Trie allows for efficient insertion and retrieval operations, making it ideal for storing and searching product names or keywords used in autocomplete and search functionalities of your grocery delivery application.
  - It enables alphabetical filtering, which is useful for categorizing and searching products by their names or categories.
