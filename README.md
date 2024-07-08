@@ -9,6 +9,12 @@
 <br>
 This portfolio demonstrates my proficiency in data structures and algorithms (DSA) through their application in the development of a comprehensive grocery delivery application. It highlights how foundational DSA concepts can be leveraged to solve real-world problems efficiently and effectively. By exploring various aspects of a grocery delivery system, I aim to showcase my ability to design and implement robust solutions that enhance the overall functionality and user experience.
 
+# Contents
+- [Objectives](#objectives)
+- [Introduction](#introduction)
+- [Applying DSA to achieve key functionalities](#applying-dsa-to-achieve-key-functionalities)
+- [References](#references)
+
 # Objectives
 - ### Demonstrate Proficiency in DSA Concepts: 
   Showcase a deep understanding of essential data structures and algorithms through practical implementations within the grocery delivery application.
