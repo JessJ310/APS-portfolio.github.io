@@ -1,5 +1,5 @@
 # Selection of nearest inventory based on user location
-### Use case: ###
+### Market Benefit: ###
  Selecting the nearest inventory based on user location in a grocery delivery application ensures timely delivery and optimal user experience by minimizing travel distance for deliveries. This approach is crucial for real-time decision-making, enhancing logistics efficiency, and improving customer satisfaction by ensuring prompt delivery and reducing operational costs associated with transportation and fuel consumption.
 ### Implementation: <br>
 ### KD trees <br>
