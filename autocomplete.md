@@ -1,7 +1,6 @@
 # Search for products with autocomplete suggestions 
 ### Market Benefit: ###
-Implementing product search with autocomplete offers real-time suggestions based on user input, thus improving navigation efficiency in our grocery delivery application and enhancing user experience.
-<br>
+Implementing product search with autocomplete offers real-time suggestions based on user input, thus improving navigation efficiency in our grocery delivery application and enhancing user experience.<br>
 ### Implementation: <br>
 ### 1. Trie: <br>
 ### Why this works? <br>
@@ -11,7 +10,7 @@ Implementing product search with autocomplete offers real-time suggestions based
  - It supports ordered iteration, ensuring that product names are accessed in a predictable sequence, which can be beneficial for displaying search results or product listings in a user-friendly manner.<br>
 ### Limitations <br>
 - Tries can consume significant memory, especially when storing large datasets of product names.
-- An efficiently constructed hash table(i.e. a good hash function) has O(1) as lookup time which is way faster than O(l) in the case of a trie, where l is the length of the string.
+- An efficiently constructed hash table(i.e. a good hash function) has O(1) as lookup time which is way faster than O(l) in the case of a trie, where l is the length of the string. <br>
 ### Analyzing complexity <br>
 - Time Complexity: O(number of words * maxLengthOfWord)
 - Auxiliary Space: O(number of words * maxLengthOfWord)
