@@ -41,6 +41,14 @@ In a grocery delivery application, managing and retrieving customer data efficie
 </p>
 
   [Click to analyze code](./analyze.py)
-  
+
+<b> 3. Huffman Coding</b><br>
+
+While Huffman coding is typically used for text data, it can also be part of a larger image compression algorithm (such as JPEG) to compress product images. This can help reduce the size of images stored in the database and transmitted to clients.<br>
+
+<b> Analyzing complexity</b>
+  - Time complexity: O(n log n)<br>
+
+[Click to analyze code](./Codes for portfolio/huffman.cpp)
 
 [Back](README.md#applying-dsa-to-achieve-key-functionalities)
