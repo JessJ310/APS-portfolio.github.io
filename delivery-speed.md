@@ -37,10 +37,13 @@ Minimize the total delivery time from a warehouse to multiple delivery points. A
   
   [Click to analyze code](./Codes for portfolio/astar.cpp)
 
-<b> 3. Ant Colony Optimization </b><br>
+<b> 3. Ant Colony Optimization </b><br><br>
 Use ACO to determine the optimal routes for delivery trucks or delivery personnel. ACO can help minimize travel time and distance, ensuring faster deliveries and reducing fuel costs.<br><br>
 
-  [Click to analyze code](./Codes for portfolio/astar.cpp)
+<b> Analyzing complexity</b> <br>
+  - Time complexity: O(k) where k is the number of ants<br>
+
+  [Click to analyze code](./Codes for portfolio/ant.py)
 
 
 [Back](README.md#applying-dsa-to-achieve-key-functionalities)
