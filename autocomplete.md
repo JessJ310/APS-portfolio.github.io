@@ -30,6 +30,9 @@ Implementing product search with autocomplete offers real-time suggestions based
   <img src="images/trie-pruning.png" alt="Image 1" width="49%" style="display: inline-block; margin: 10px;">
   <img src="images/trie-pruning1.png" alt="Image 2" width="41%" style="display: inline-block; margin: 10px;">
 </p>
+<p align="center">
+ <a href="https://github.com/wolfgarbe/PruningRadixTrie">Source</a>
+</p>
 
 
 
