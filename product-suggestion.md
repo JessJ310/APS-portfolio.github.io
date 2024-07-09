@@ -18,6 +18,11 @@
 - Each node in the graph represents a product in your inventory.
 - The edges between nodes represent the similarity or relevance between products. Factors for edge weights can be based on similarity in features (products that are similar in attributes (e.g., category, brand, ingredients)), user preferences, purchase history (products often bought together), relevance score (a calculated score representing the relevance of a product to the user).
 
+
+<p align="center">
+  <img src="images/bfs.png" alt="Image 1" width="65%" style="display: inline-block; margin: 10px;">
+</p>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b> Analyzing complexity:</b>
 - Time complexity: O(b^m) where b is branching and m is maximum depth of the search tree
 - Space complexity can be polynomial. <br><br>
