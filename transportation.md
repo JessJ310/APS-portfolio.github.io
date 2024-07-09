@@ -22,6 +22,11 @@ Represent warehouses as nodes and connections (roads or direct routes) as edges 
 
 [Click to analyze code](./Codes for portfolio/kruskal.cpp)
 
+<p align="center">
+  <img src="images/graph.png" alt="Image 1" width="45%" style="display: inline-block; margin: 10px;">
+  <img src="images/mst.png" alt="Image 2" width="45%" style="display: inline-block; margin: 10px;">
+</p>
+
 
 [Back](README.md#applying-dsa-to-achieve-key-functionalities)
 
