@@ -11,6 +11,10 @@ Selecting the nearest inventory based on user location in a grocery delivery app
 - Prepare a list of warehouse locations, each represented by its coordinates in the multidimensional space.
 - Use the KD-Tree construction algorithm to recursively partition the space based on the coordinates. 
 - When a delivery request comes in, obtain the user's current location. Perform a nearest neighbor search in the KD-Tree to find the warehouse location closest to the user's location.
+
+<p align="center">
+  <img src="images/KDtree.png" alt="Image 1" width="50%" style="display: inline-block; margin: 10px;">
+</p>
   
 <b> Analyzing complexity</b> <br>
 - Building a static k-d tree from n points has the following worst-case complexity:
