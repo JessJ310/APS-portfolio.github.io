@@ -10,6 +10,10 @@ In a grocery delivery application, customers interact with various categories or
 - When generating recommendations, the Bloom filter is queried to check if a product category's identifier exists for a particular user, which involves computing the hash functions for the queried item and checking the corresponding bits.
 - The Bloom filter requires an array of size 𝑚, where each bit represents the status (set or unset) of a hash function output for each item stored.<br><br>
 
+<p align="center">
+  <img src="images/bloom.png" alt="Image 1" width="50%" style="display: inline-block; margin: 10px;">
+</p>
+
 <b> Why this works? </b>
 - They enhance the speed of retrieving and processing user preferences and interactions. Bloom filters provide a fast decision mechanism to quickly check if a user has interacted with a particular product category without directly accessing the disk. 
 - Bloom filters have a substantial space advantage over other data structures for representing sets, such as self-balancing binary search trees, tries, hash tables, etc. Most of these require storing at least the data items themselves, which can require anywhere from a small number of bits, for small integers, to an arbitrary number of bits, such as for strings. However, Bloom filters do not store the data items at all, and a separate solution must be provided for the actual storage. <br><br>
