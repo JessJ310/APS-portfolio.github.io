@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <img src="images/bfs.png" alt="Image 1" width="55%" style="display: inline-block; margin: 10px;">
+  <img src="images/bfs.png" alt="Image 1" width="45%" style="display: inline-block; margin: 10px;">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b> Analyzing complexity:</b>
