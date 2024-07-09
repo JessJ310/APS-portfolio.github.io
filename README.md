@@ -49,7 +49,7 @@ The concept of digital stores gained prominence during the pandemic, as large re
 6. [Real-time inventory updates](inventory.md)
 7. [Promotion and pricing strategy to attract customers](promotion.md)
 8. [Minimize transportation costs from central warehouse to other warehouses](transportation.md)
-9. [Selection of nearest inventory based on user location](contributing.md)
+9. [Selection of nearest inventory based on user location](contributing1.md)
 10. [Accelerate delivery speed by optimizing route](delivery-speed.md)
 11. [Management of customer and product data](data-retrieval.md)
 
